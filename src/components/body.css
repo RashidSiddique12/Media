@@ -47,6 +47,10 @@ body {
   font-size: 17px;
   color: grey;
 }
+.learnmore-q {
+  color: #4db5ff;
+  font-weight: bold;
+}
 
 .learn-more-btn {
   background-color: black;
@@ -145,7 +149,7 @@ body {
   margin: 5% 0;
   color: black;
   font-size: 0.7in;
-  /* text-shadow: 2px 2px 6px black; */
+  text-shadow: none;
 }
 .sty {
   color: #4db5ff;

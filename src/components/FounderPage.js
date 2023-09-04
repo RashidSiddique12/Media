@@ -31,10 +31,10 @@ function FounderPage() {
           <div className="gradiant"></div>
           <div className="profile-down">
             <img src={user1} alt="" />
-            <div className="profile-title">Rashid</div>
+            <div className="profile-title">RC RAO</div>
             <div className="profile-description">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam
-              accusamus rem eum, odio voluptatibus fugiat?
+              CEO and founder of RCCODEX, an influencer and educational content
+              creator.
             </div>
             <div className="profile-button">
               <a href=" ">Contact me</a>
@@ -46,10 +46,10 @@ function FounderPage() {
           <div className="gradiant"></div>
           <div className="profile-down">
             <img src={user1} alt="" />
-            <div className="profile-title">Rashid</div>
+            <div className="profile-title">Vaibhav Singh</div>
             <div className="profile-description">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam
-              accusamus rem eum, odio voluptatibus fugiat?
+              CTO and Co-founder of RCCODEX, a Full Stack Web Developer and
+              Technical Expert.
             </div>
             <div className="profile-button">
               <a href=" ">Contact me</a>

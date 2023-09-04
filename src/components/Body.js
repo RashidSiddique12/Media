@@ -31,9 +31,9 @@ const BodyComponent = () => {
 
         <div>
           <p className="learnmore">
-            Learn something new about the <br /> world from your favorite travel{" "}
-            <br />
-            creators.
+            Elevate Your Digital Presence With <br />
+            Exceptional Web Development Solutions <br />
+            <div className="learnmore-q">Your Success, Our Expertise!</div>
             <br />
             <br />
             <button className="learn-more-btn">Know More &#9662;</button>
@@ -41,11 +41,11 @@ const BodyComponent = () => {
         </div>
 
         <div className="quote" data-aos="fade-up">
-          <p className="quotep">Lorem ipsum dolor sit amet consectetur,</p>
-          <p className="quotep">Lorem ipsum dolor sit amet.</p>
-          <hr />
-          <p className="quotep">Lorem ipsum dolor sit amet.</p>
-          <p className="quotep">Lorem ipsum dolor sit amet.</p>
+          <p className="quotep">TRANSFORM YOUR ONLINE ASPIRATIONS </p>
+          <p className="quotep">INTO REALITY WITH OUR UNRIVALED</p>
+          {/* <hr /> */}
+          <p className="quotep">WEB DEVELOPMENT PORWESS.</p>
+          <p className="quotep">EXPERIENCE THE FUTURE OF WEB SOLUTIONS </p>
         </div>
       </div>
 
